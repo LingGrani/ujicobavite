@@ -1,14 +1,14 @@
-import Lunox from './assets/Lunox-Legend-Divine-Goddess.jpeg';
+import gambar from './assets/Kagura_Special.jpg';
 import './App.css'
 
 function App() {
   return (
     <>
       <div class="card">
-        <img class="gambar" src={Lunox} alt="Lunox-Legend"/>
+        <img class="gambar" src={gambar} alt="Kagura"/>
         <div class="text">
-          <h2>Divine Goddess</h2>
-          <p>Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the "Twilight Orbs."</p>
+          <h2>Kagura</h2>
+          <p>Upon the Cadia Riverlands, there exists a mysterious profession called Onmyouji Master that uses the yin yang arts to control spirits and see into the future. The Great Dragon bestowed this special power to channel yin and yang on people of the Cadia Riverlands, and one of his own disciples became the first-ever Onmyouji Master.</p>
         </div>
       </div>
     </>
